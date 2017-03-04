@@ -1,0 +1,21 @@
+{
+  "name": "hpdf.js",
+  "version": "0.0.1",
+  "description": "The pdf viewer that is a clone to pdf.js of Mozilla",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterhung0112/hpdf.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterhung0112/hpdf.js/issues"
+  },
+  "homepage": "https://github.com/masterhung0112/hpdf.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
