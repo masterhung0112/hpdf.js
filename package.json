@@ -16,6 +16,11 @@
   },
   "homepage": "https://github.com/masterhung0112/hpdf.js#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "es6-module-loader": "^0.17.11",
+    "gulp": "^3.9.1",
+    "jasmine": "^2.5.3",
+    "requirejs": "^2.3.3",
+    "systemjs": "^0.20.9",
+    "traceur": "0.0.111"
   }
 }
