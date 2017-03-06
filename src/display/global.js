@@ -13,6 +13,8 @@
   }
 	var PDFJS = globalScope.PDFJS;
 	
+	PDFJS.postMessageTransfers = (PDFJS.postMessageTransfers === undefined ? true : PDFJS.postMessageTransfers);
+	
 	PDFJS.workerSrc = (PDFJS.workerSrc === undefined ? null : PDFJS.workerSrc);
 	
 	/**
